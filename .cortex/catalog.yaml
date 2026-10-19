@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "identity-resolution"
+  x-cortex-tag: "identity-resolution"
+  x-cortex-description: "Cross-channel identity stitching and matching"
+  x-cortex-owners:
+    - type: group
+      name: "Customer Data Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001502"
+    apm_name: "Customer Data Platform"
+    cost_center: "CC-4511"
